@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="calendar_label">
+        <item>Y</item>
+        <item>M</item>
+        <item>D</item>
+        <item>H</item>
+        <item>m</item>
+        <item>s</item>
+    </string-array>
+    <string-array name="weekdays">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="weekdays_simplify">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Web</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+</resources>

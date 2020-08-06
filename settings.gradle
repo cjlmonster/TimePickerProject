@@ -1,0 +1,3 @@
+rootProject.name='TimePickerProject'
+include ':sample'
+include ':timepickerlibrary'

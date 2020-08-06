@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string-array name="calendar_label">
+        <item>年</item>
+        <item>月</item>
+        <item>日</item>
+        <item>时</item>
+        <item>分</item>
+        <item>秒</item>
+    </string-array>
+    <string-array name="weekdays">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+    <string-array name="weekdays_simplify">
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+</resources>
